@@ -1,0 +1,1 @@
+		$(document).ready(function(){		$("button").click(function(){        $("#mybutton").load("./dataload/1.txt"); 				});				$("#button2").click(function(){        $("#mybutton").load("./dataload/2.txt"); 				});         	 		    });
